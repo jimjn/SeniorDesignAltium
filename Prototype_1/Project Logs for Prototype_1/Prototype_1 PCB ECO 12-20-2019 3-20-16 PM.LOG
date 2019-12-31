@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=V_switch Pin=L2-1
+Removed Member From Class: ClassName=Sheet2.SchDoc Member=L2
+Added Room: Name=Prototype_1
+Added Room: Name=Sheet2.SchDoc
